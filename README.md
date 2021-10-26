@@ -7,7 +7,7 @@ This app is all about tracking of your tasks that you need to complete, or thing
 - Javascript
 
 ##### Features
- -User can add their tasks .
- -User can edit their tasks .
- -User can remove their tasks .
- -User can clear their tasks list in one tap .
+ -User can add their tasks 
+ -User can edit their tasks 
+ -User can remove their tasks 
+ -User can clear their tasks list in one tap 
